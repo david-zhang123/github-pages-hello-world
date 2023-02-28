@@ -1,0 +1,22 @@
+@import url('https://david-zhang123.github.io/_Web_/Fonts/LatinModern.css');
+
+* {
+    font-family: 'LM Roman';
+}
+
+body {
+    margin-top: 3em;
+}
+
+h1, h2 {
+    font-style: bold;
+    border-bottom: solid rgb(228, 228, 228) 3px;
+    width: fit-content;
+    padding-right: 80px;
+}
+
+p {
+    text-align: justify;
+    font-size: 20px;
+    margin-bottom: 1.2em;
+}
